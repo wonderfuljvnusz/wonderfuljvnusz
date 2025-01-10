@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Szymon 👋
+🎓 Aspiring Data Scientist | 💻 Passionate Python Developer | 🌟 Open Source Contributor
 
-<!--
-**wonderfuljvnusz/wonderfuljvnusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning **Machine Learning** and **Data Visualization**
+- 🚀 Exploring **AI** and **Data Science** projects
+- 📫 How to reach me: [Email](sz.karbowski98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/szymon-karbowski-ba8ab82b2)
 
-Here are some ideas to get you started:
+## 🚀 Notable Projects
+- [Expense Tracker](https://github.com/wonderfuljvnusz/expense-tracker): A Python CLI app for tracking expenses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wonderfuljvnusz&show_icons=true&theme=radical)
+
+## 🛠️ Skills
+- Python | SQL | Pandas | TensorFlow | Scikit-learn |
