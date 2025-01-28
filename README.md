@@ -6,7 +6,7 @@
 - 📫 How to reach me: [Email](sz.karbowski98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/szymon-karbowski-ba8ab82b2)
 
 ## 🚀 Notable Projects
-- [Expense Tracker](https://github.com/wonderfuljvnusz/expense-tracker): A Python CLI app for tracking expenses.
+- [Expense Tracker]([https://github.com/wonderfuljvnusz/expense-tracker](https://github.com/wonderfuljvnusz/expense_tracker)): A Python CLI app for tracking expenses.
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wonderfuljvnusz&show_icons=true&theme=radical)
